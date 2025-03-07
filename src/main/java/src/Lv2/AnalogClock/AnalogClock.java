@@ -1,4 +1,4 @@
-package src.Lv2;
+package src.Lv2.AnalogClock;
 
 public class AnalogClock {
 
